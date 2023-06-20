@@ -18,7 +18,7 @@ sudo mv sip.conf sip.conf.backup
 sudo mv extensions.conf extensions.conf.backup
 sudo mv voicemail.conf voicemail.conf.backup
 ```
-Configure the files: https://github.com/mailrocketsystems/AsteriskVOIP 
+Configure the files:https://github.com/Vaishnavi-ganesan/Asterisk-VOIP-server-setup
 Launch the Asterisk 
 ```
 sudo asterisk –r  
