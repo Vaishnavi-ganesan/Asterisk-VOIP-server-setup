@@ -31,3 +31,8 @@ Check whether clients are added or not
 ```
 sip  show peers
 ```
+Linphone android client was installed in two android phone(Note:Both must be connected to same wifi) The username,password and sip domain was configured. And the call is made via linphone     
+To check the status
+```
+sip show peers
+```
